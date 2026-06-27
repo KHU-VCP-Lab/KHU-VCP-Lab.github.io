@@ -1,4 +1,26 @@
 ---
+- title: Adaptive Planar Weighting Strategy for Enhanced DIMD Performance
+  authors: Jeonghyun Lee and Kiho Choi*
+  journal: Journal of Broadcast Engineering
+  volume: '30'
+  pages: 1176-1184
+  year: 2025
+  category: Domestic Journal
+  id: DJ08
+  url: https://doi.org/10.5909/JBE.2025.30.7.1176
+  pdf: https://www.kibme.org/resources/journal/20251222144128263.pdf
+  description: This paper studies a limitation of Decoder-side Intra Mode Derivation in ECM-15.0, where Planar mode is always blended with a fixed weight. It proposes two adaptive planar-weight adjustment methods based on gradient-amplitude distribution and non-square block shape characteristics. The experimental results show that the amplitude-based method improves luma coding performance, while the shape-based method provides gains for chroma components, demonstrating that adaptive Planar participation can improve coding efficiency without added complexity.
+  bibtex: |-
+    @article{DJ08,
+      author={Jeonghyun Lee and Kiho Choi},
+      title={Adaptive Planar Weighting Strategy for Enhanced DIMD Performance},
+      journal={Journal of Broadcast Engineering},
+      year={2025},
+      volume={30},
+      number={7},
+      pages={1176-1184},
+      doi={10.5909/JBE.2025.30.7.1176}
+    }
 - title: 'Swin–YOLOv12: A Hybrid Transformer-Based Deep Learning Approach for Enhanced Real-Time Brain Tumor Detection in MRI Images'
   authors: Mubashar Tariq and Kiho Choi*
   journal: Mathematics
