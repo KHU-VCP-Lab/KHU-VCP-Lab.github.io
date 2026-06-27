@@ -2,8 +2,15 @@
   title: "Development of AI-Based Technologies for Next-Generation Coding Standards"
   sponsor: "Korean Broadcasting System (KBS)"
   role: "Principal Investigator"
-  period: "2025.05.23 - 2026.05.22"
+  period: "2025.05.23 - 2027.05.22"
   logo: "KBS.jpg"
+
+- status: "in_progress"
+  title: "Development of Next-Generation Core Video Coding Technologies for AI-Generated Video"
+  sponsor: "National Research Foundation of Korea (NRF)"
+  role: "Principal Investigator"
+  period: "2025.09.01 - 2028.08.31"
+  logo: "NRF.jpg"
 
 - status: "in_progress"
   title: "University Technology Management Promotion Project"
