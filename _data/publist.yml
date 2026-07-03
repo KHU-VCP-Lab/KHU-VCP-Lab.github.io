@@ -1,4 +1,26 @@
 ---
+- title: "Tie-Calibrated COMETKiwi for Speech Translation Quality Estimation: IWSLT2026 Metrics Track"
+  authors: Mubashir Hussain Shah, Aymen Fatima, Kiho Choi*, and Daehee Jang
+  journal: Proceedings of the 23rd International Conference on Spoken Language Translation (IWSLT 2026)
+  pages: 318-322
+  year: 2026
+  category: International Conference
+  id: IC19
+  url: https://doi.org/10.18653/v1/2026.iwslt-1.36
+  pdf: https://aclanthology.org/2026.iwslt-1.36.pdf
+  description: This paper presents the authors' submission to the IWSLT 2026 Speech Translation Metrics shared task for reference-free quality estimation in English-to-German and English-to-Chinese speech translation. The proposed system combines COMETKiwi-22 with a tie-calibration post-processing method to reduce noisy pairwise ranking errors without using audio, retraining, or additional model complexity.
+  bibtex: |-
+    @inproceedings{IC19,
+      author={Mubashir Hussain Shah and Aymen Fatima and Kiho Choi and Daehee Jang},
+      title={Tie-Calibrated {COMETK}iwi for Speech Translation Quality Estimation: {IWSLT}2026 Metrics Track},
+      booktitle={Proceedings of the 23rd International Conference on Spoken Language Translation ({IWSLT} 2026)},
+      year={2026},
+      pages={318-322},
+      address={San Diego, USA (in-person and online)},
+      publisher={Association for Computational Linguistics},
+      doi={10.18653/v1/2026.iwslt-1.36},
+      url={https://aclanthology.org/2026.iwslt-1.36/}
+    }
 - title: Adaptive Planar Weighting Strategy for Enhanced DIMD Performance
   authors: Jeonghyun Lee and Kiho Choi*
   journal: Journal of Broadcast Engineering
