@@ -1,4 +1,27 @@
 ---
+- title: "Tie-Calibrated COMETKiwi for Speech Translation Quality Estimation: IWSLT2026 Metrics Track"
+  authors: Mubashir Hussain Shah, Aymen Fatima, Kiho Choi*, and Daehee Jang
+  journal: Proceedings of the 23rd International Conference on Spoken Language Translation (IWSLT 2026)
+  pages: 318-322
+  year: 2026
+  category: International Conference
+  id: IC19
+  url: https://doi.org/10.18653/v1/2026.iwslt-1.36
+  pdf: https://aclanthology.org/2026.iwslt-1.36.pdf
+  description: |-
+    We describe our submission to the IWSLT 2026 Speech Translation Metrics shared task, which targets reference-free quality estimation for English-to-German and English-to-Chinese speech translation. Our primary system combines COMETKiwi-22, applied to ASR transcripts, with a lightweight post-processing step called tie calibration: a learned score-bucketing that collapses near-identical scores into exact ties, reducing noisy within-document pairwise ranking errors. On the official development set the method achieves a segment-level Kendall tau-b of 39.4% on average, compared to 34.6% for plain COMETKiwi, 29.2% for SpeechQE, and 24.4% for BLASER 2.0 QE. System-level Soft Pairwise Accuracy is 88.0%, comparable to COMETKiwi (89.4%) and above SpeechQE (86.0%). The method requires no audio, no retraining, and one hyperparameter per target language tuned entirely on the training split.
+  bibtex: |-
+    @inproceedings{IC19,
+      author={Mubashir Hussain Shah and Aymen Fatima and Kiho Choi and Daehee Jang},
+      title={Tie-Calibrated {COMETK}iwi for Speech Translation Quality Estimation: {IWSLT}2026 Metrics Track},
+      booktitle={Proceedings of the 23rd International Conference on Spoken Language Translation ({IWSLT} 2026)},
+      year={2026},
+      pages={318-322},
+      address={San Diego, USA (in-person and online)},
+      publisher={Association for Computational Linguistics},
+      doi={10.18653/v1/2026.iwslt-1.36},
+      url={https://aclanthology.org/2026.iwslt-1.36/}
+    }
 - title: Adaptive Planar Weighting Strategy for Enhanced DIMD Performance
   authors: Jeonghyun Lee and Kiho Choi*
   journal: Journal of Broadcast Engineering
