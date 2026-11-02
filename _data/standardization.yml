@@ -1,4 +1,10 @@
 [
+  "[255] J. Lee, M. Jeon, K. Choi (KHU), B.–S. Kim, I. Cho, S. Hahm (KBS), AHG14: SIMD Optimization of Global Average Pooling in the LOP8, JVET-AR0091, Hangzhou, Oct. 2026",
+  "[254] J. Lee, M. Jeon, K. Choi (KHU), B.–S. Kim, I. Cho, S. Hahm (KBS), AHG11: Dynamic convolution for VLOP4 in-loop filtering, JVET-AR0092, Hangzhou, Oct. 2026",
+  "[253] M. Jeon, J. Lee, K. Choi (KHU), B.–S. Kim, I. Cho, S. Hahm (KBS), X. Li (Google), AHG11: Multi-GPU training with distributed data parallel for LOP8, JVET-AR0093, Hangzhou, Oct. 2026",
+  "[252] Q. He, J. Lee, M. Jeon, K. Choi (KHU), J. Lee (SJU), S. Park, J. Heo, J. Choi, J. Choi (Hyundai Motor Company), AHG11: Information on objective quality metrics for VVC/H.266 and NNVC comparison, JVET-AR0094, Hangzhou, Oct. 2026",
+  "[251] J. Lee, M. Jeon, K. Choi (KHU), B.–S. Kim, I. Cho, S. Hahm (KBS), EE1-1.1: Dynamic convolution for LOP7 neural in-loop filtering, JVET-AQ0071, Geneva, Jul. 2026",
+  "[250] J. Lee, M. Jeon, K. Choi (KHU), B.–S. Kim, I. Cho, S. Hahm (KBS), AHG11: Training-Time Optimization for LOP7, JVET-AQ0200, Geneva, Jul. 2026",
   "[249] W. Gwun, K. Choi (KHU), B.-S. Kim, I. Cho, S. Hahm (KBS), EE1-1.1: Dynamic convolution for LOP7 neural in-loop filtering, JVET-AP0066, SantaEularia, Apr. 2026",
   "[248] W. Gwun, K. Choi (KHU), B.-S. Kim, I. Cho, S. Hahm (KBS), AHG14: Bug fix for Conv2D sampling grid misalignment in SADL, JVET-AO0058, Online, Jan. 2026",
   "[247] W. Gwun, K. Choi (KHU), B.-S. Kim, I. Cho, S. Hahm (KBS), AHG14: SADL viewer module using Netron, JVET-AO0057, Online, Jan. 2026",
